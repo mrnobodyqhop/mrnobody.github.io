@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>무리더의 일상생활</title>
+    <link href="https://mrnobody.qhop.org/feed.xml" rel="self" />
+    <link href="https://mrnobody.qhop.org" />
+    <updated>2025-06-19T16:21:47+09:00</updated>
+    <author>
+        <name>Mr.Nobody</name>
+    </author>
+    <id>https://mrnobody.qhop.org</id>
+
+    <entry>
+        <title>리더로 살면서 겪는 교훈을 공유하자</title>
+        <author>
+            <name>Mr.Nobody</name>
+        </author>
+        <link href="https://mrnobody.qhop.org/rideoro-salmyeonseo-gyeoggneun-gyohuneul-gongyuhaja.html"/>
+        <id>https://mrnobody.qhop.org/rideoro-salmyeonseo-gyeoggneun-gyohuneul-gongyuhaja.html</id>
+        <media:content url="https://mrnobody.qhop.org/media/posts/1/historyisyourstory.png" medium="image" />
+
+        <updated>2025-06-19T16:21:47+09:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://mrnobody.qhop.org/media/posts/1/historyisyourstory.png" alt="" />
+                    500년 전 사람과 100년 전 사람과 요즘의 사람들이 다른점이라고는 태어나서 무엇을 보고&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://mrnobody.qhop.org/media/posts/1/historyisyourstory.png" class="type:primaryImage" alt="" /></p>
+                <p>500년 전 사람과 </p>
+<p>100년 전 사람과 </p>
+<p>요즘의 사람들이 다른점이라고는 </p>
+<p>태어나서 무엇을 보고 듣고 익혔는지 뿐이다. </p>
+<p> </p>
+<p>요즘 사람이 백년뒤로 가서 산다고 해서 </p>
+<p>500년 전 사람이 요즘시대에 태어난다고 해서 </p>
+<p> </p>
+<p>달라질 건 없다. </p>
+<p> </p>
+<p>그렇다. </p>
+<p> </p>
+<p>교육이 중요하다. </p>
+<p>배움이 중요하다. </p>
+<p>성장이 중요하다. </p>
+<p> </p>
+<p>사람은 언제나 보도 듣고 느끼며 끊임없이 성장하는 </p>
+<p>무한한 가능성의 존재라는걸 잊지 않는 것 만으로도 </p>
+<p>인생은 달라 질 수 있다. </p>
+<p> </p>
+<p>당신의 이야기는 끝나지 않았고 아직 많은 페이지가 남아 있다. </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

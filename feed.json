@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "무리더의 일상생활",
+    "description": "",
+    "home_page_url": "https://mrnobody.qhop.org",
+    "feed_url": "https://mrnobody.qhop.org/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Mr.Nobody"
+    },
+    "items": [
+        {
+            "id": "https://mrnobody.qhop.org/rideoro-salmyeonseo-gyeoggneun-gyohuneul-gongyuhaja.html",
+            "url": "https://mrnobody.qhop.org/rideoro-salmyeonseo-gyeoggneun-gyohuneul-gongyuhaja.html",
+            "title": "리더로 살면서 겪는 교훈을 공유하자",
+            "summary": "500년 전 사람과 100년 전 사람과 요즘의 사람들이 다른점이라고는 태어나서 무엇을 보고&hellip;",
+            "content_html": "<p>500년 전 사람과 </p>\n<p>100년 전 사람과 </p>\n<p>요즘의 사람들이 다른점이라고는 </p>\n<p>태어나서 무엇을 보고 듣고 익혔는지 뿐이다. </p>\n<p> </p>\n<p>요즘 사람이 백년뒤로 가서 산다고 해서 </p>\n<p>500년 전 사람이 요즘시대에 태어난다고 해서 </p>\n<p> </p>\n<p>달라질 건 없다. </p>\n<p> </p>\n<p>그렇다. </p>\n<p> </p>\n<p>교육이 중요하다. </p>\n<p>배움이 중요하다. </p>\n<p>성장이 중요하다. </p>\n<p> </p>\n<p>사람은 언제나 보도 듣고 느끼며 끊임없이 성장하는 </p>\n<p>무한한 가능성의 존재라는걸 잊지 않는 것 만으로도 </p>\n<p>인생은 달라 질 수 있다. </p>\n<p> </p>\n<p>당신의 이야기는 끝나지 않았고 아직 많은 페이지가 남아 있다. </p>",
+            "image": "https://mrnobody.qhop.org/media/posts/1/historyisyourstory.png",
+            "author": {
+                "name": "Mr.Nobody"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-06-19T16:21:47+09:00",
+            "date_modified": "2025-06-19T16:21:47+09:00"
+        }
+    ]
+}
